@@ -1,13 +1,8 @@
-circle
-green
 red
+yellow
 gray
+circle
+brown
 yes
 teal
-black
-rectangle
-yellow
-triangle
-brown
-blue
 no
