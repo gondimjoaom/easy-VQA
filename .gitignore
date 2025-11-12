@@ -1,6 +1,6 @@
 # From https://github.com/github/gitignore/blob/master/Python.gitignore
 #######################################################################
-
+easy_vqa/data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
